@@ -1,0 +1,16 @@
+١٥:١١:٤١ KLog[ (SourceFile:3)#onCreate ] onCreate
+١٥:١١:٤١ [MGC][ (SourceFile:6)#onCapabilitiesChanged ] last ip: current ip:192.168.0.100 Thread id:287 obj id:160060292 process id:6387
+١٥:١١:٤٢ [MGC][ (SourceFile:2)#run ] report ip:192.168.0.100
+١٥:١١:٤٤ [MGC]-post ip:[ (SourceFile:5)#run ] Device id: ip: 192.168.0.100Response{protocol=h2, code=200, message=, url=https://imei-api.wondershare.com/manager/v1/pair-ip}
+١٥:١٩:٤٢ KLog[ (SourceFile:3)#onCreate ] onCreate
+١٥:١٩:٤٣ [MGC][ (SourceFile:6)#onCapabilitiesChanged ] last ip: current ip:192.168.0.100 Thread id:286 obj id:24115053 process id:9714
+١٥:١٩:٤٤ [MGC][ (SourceFile:2)#run ] report ip:192.168.0.100
+١٥:١٩:٤٥ [MGC]-post ip:[ (SourceFile:5)#run ] Device id: ip: 192.168.0.100Response{protocol=h2, code=200, message=, url=https://imei-api.wondershare.com/manager/v1/pair-ip}
+١٦:١٤:٣٦ KLog[ (SourceFile:3)#onCreate ] onCreate
+١٦:١٤:٣٦ [MGC][ (SourceFile:6)#onCapabilitiesChanged ] last ip: current ip:192.168.0.100 Thread id:296 obj id:160060292 process id:22588
+١٦:١٤:٣٧ [MGC][ (SourceFile:2)#run ] report ip:192.168.0.100
+١٦:١٤:٣٨ [MGC]-post ip:[ (SourceFile:5)#run ] Device id: ip: 192.168.0.100Response{protocol=h2, code=200, message=, url=https://imei-api.wondershare.com/manager/v1/pair-ip}
+٢٣:٤١:٢٠ KLog[ (SourceFile:3)#onCreate ] onCreate
+٢٣:٤١:٢٤ [MGC][ (SourceFile:6)#onCapabilitiesChanged ] last ip: current ip:192.168.0.100 Thread id:345 obj id:216112133 process id:8400
+٢٣:٤١:٢٥ [MGC][ (SourceFile:2)#run ] report ip:192.168.0.100
+٢٣:٤١:٢٧ [MGC]-post ip:[ (SourceFile:5)#run ] Device id: ip: 192.168.0.100Response{protocol=h2, code=200, message=, url=https://imei-api.wondershare.com/manager/v1/pair-ip}
